@@ -14,3 +14,10 @@ back
 frontend
 backend
 ws
+users
+accounts
+data
+priv
+private
+master
+logs
