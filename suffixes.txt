@@ -1,0 +1,16 @@
+prod
+dev
+app
+production
+test
+staging
+development
+application
+www
+web
+webapp
+front
+back
+frontend
+backend
+ws
